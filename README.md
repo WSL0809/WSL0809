@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=WSL0809)
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)

@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Light Badge](https://www.codewars.com/users/WSL0809/badges/large?theme=light)
 <!--
 **WSL0809/WSL0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=WSL0809)
-![Light Badge](https://www.codewars.com/users/WSL0809/badges/large?theme=light)
+

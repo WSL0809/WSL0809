@@ -4,3 +4,9 @@
 ![Last Commit](https://img.shields.io/github/last-commit/WSL0809/WSL0809)
 
 ![Stats](./profile/stats.svg)
+
+ ### My Favorite Blogs
+https://renzhi.shaogefenhao.com/
+
+https://www.codedump.info/
+ 

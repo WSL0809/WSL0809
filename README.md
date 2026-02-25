@@ -10,3 +10,6 @@ https://renzhi.shaogefenhao.com/
 
 https://www.codedump.info/
  
+https://gaocegege.com/Blog/
+
+https://loongphy.com/
